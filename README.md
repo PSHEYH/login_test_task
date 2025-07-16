@@ -25,4 +25,6 @@ flutter pub run build_runner build --delete-conflicting-outputs
 
 ### 4. Run the project
 
+```bash
 flutter run
+```
