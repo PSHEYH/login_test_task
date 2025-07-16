@@ -23,7 +23,16 @@ flutter pub get
 flutter pub run build_runner build --delete-conflicting-outputs
 ```
 
-### 4. Run the project
+### 4. Create dotenv file in root 
+
+
+.env
+-----------
+
+API_URL=https://68774118dba809d901ee69d2.mockapi.io/api/v1/
+
+
+### 5. Run the project
 
 ```bash
 flutter run
