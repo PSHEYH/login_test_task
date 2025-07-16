@@ -2,6 +2,12 @@
 
 A new Flutter project.
 
+## Features
+
+- **Login screen** with form validation (email/password)
+- **Home screen** displaying username and logout
+- **Persistent authentication** (auto-login if token found)
+
 ## Getting Started
 
 ### 1. **Clone the repository**
